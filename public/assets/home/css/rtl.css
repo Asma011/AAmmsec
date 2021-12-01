@@ -1,0 +1,45 @@
+div, table, thead, tbody, tr, td, th, span, ul, li, a, h1, h2, h3, h4, h5, h6, dt, dd {
+    font-family: "Cairo",sans-serif;
+}
+.download .download-btn i {
+    margin-left: 10px;
+    margin-right:  0px !important;
+}
+.subscribe-newsletter form label {
+    left: 0px;
+    right: auto !important;
+}
+.subscribe-newsletter form input[type="text"] {
+    border-radius: 100px 0 0px 100px !important;
+    padding-left: 0px !important;
+    padding-right: 15px;
+}
+.subscribe-newsletter form .more-btn {
+    left: 10px;
+    right: auto !important;
+}
+#screenshots {
+    direction: ltr;
+}
+.our-app .image img {
+    float: left;
+}
+.main-footer .newsletter-widget .send-btn {
+    left: 10px;
+    right: auto !important;
+}
+.skill li.title {
+    float: right !important;
+}
+.skill li.strength {
+    float: left !important;
+}
+.how-box-one:after {
+    left: -100px;
+    right: auto !important;
+    transform: rotateY(900deg);
+}
+nav.main-navigation .navbar-nav > li:last-child {
+    padding-left: 0px !important;
+    padding-right: 22px;
+}
